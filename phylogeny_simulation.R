@@ -111,6 +111,5 @@ barplot(combined_data$sigsq, names.arg = combined_data$dataset, col = "blue", ma
 barplot(combined_data$z0, names.arg = combined_data$dataset, col = "Purple", main = "Comparison of Mean for Datasets", xlab = "Datasets", ylab = "Mean")
 
 
-# do a for loop to repeat each simulation multiple times to make box plots showing variance, look into apply function
-# do smaller sample size in the tens
+
 
